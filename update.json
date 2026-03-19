@@ -1,24 +1,15 @@
 {
-  "version": "v1.0.1-devv",
-  "title": "System update available",
-  "new_features": [
-    "Added BLE pairing and bonding support",
-    "Added standard Battery Service support",
-    "Added Device Information Service support",
-    "Added custom INFO and SENSOR commands for the app"
-  ],
-  "improvements": [
-    "Improved BLE reconnect behavior after disconnect",
-    "Improved security with encrypted characteristic access",
-    "Improved Android compatibility with standard BLE services",
-    "Restored DHT22 temperature and humidity reporting",
-    "Added periodic sensor notifications over the custom TX channel"
-  ],
-  "notes": [
-    "Pair the device again after flashing this firmware if Android cached an older bond.",
-    "Keep the phone close to the device during updates and setup.",
-    "The device may reboot or reconnect during firmware-related changes."
-  ],
-  "bin_url": "https://github.com/Vinayakahr10/Matrix-Clock-Firmware/releases/download/v1.0.1-devv/DOTMATRIX-FIRMWARE.ino.bin",
-  "md5": "8CE9DC25A07540A7C07B07E4D6F8D55F"
+  "version": "v1.0.2",
+  "bin_url": "https://github.com/Vinayakahr10/Matrix-Clock-Firmware/releases/download/v1.0.2/DOTMATRIX-FIRMWARE.ino.bin",
+  "fileName": "DOTMATRIX-FIRMWARE.ino.bin",
+  "size": 1105904,
+  "md5": "6eb3382f604667b4d5e7fcb54db21167",
+  "sha256": "ecdfbb8278a2a914c800fea38bc31706ac2ae221c0b70c2eb779685884c95120",
+  "changes": [
+    "Added OTA debug logs for OTA_BEGIN, OTA_CHUNK, and OTA_END",
+    "Added serial log for OTA chunk progress",
+    "Added serial log when reboot is scheduled after OTA",
+    "Added reset reason log at boot for easier troubleshooting",
+    "Firmware version updated to v1.0.2"
+  ]
 }
