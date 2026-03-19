@@ -1,5 +1,5 @@
 {
-  "version": "v1.0.2-dev",
+  "version": "v1.0.1-devv",
   "title": "System update available",
   "new_features": [
     "Added BLE pairing and bonding support",
