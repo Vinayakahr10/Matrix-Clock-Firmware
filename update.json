@@ -19,6 +19,6 @@
     "Keep the phone close to the device during updates and setup.",
     "The device may reboot or reconnect during firmware-related changes."
   ],
-  "bin_url": "https://github.com/Vinayakahr10/Matrix-Clock-Firmware/releases/download/v1.0.2-dev/DOTMATRIX-FIRMWARE.ino.bin",
+  "bin_url": "https://github.com/Vinayakahr10/Matrix-Clock-Firmware/releases/download/v1.0.1-dev/DOTMATRIX-FIRMWARE.ino.bin",
   "md5": "8CE9DC25A07540A7C07B07E4D6F8D55F"
 }
