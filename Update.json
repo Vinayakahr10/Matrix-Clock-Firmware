@@ -1,0 +1,20 @@
+{
+  "version": "v1.0.2",
+  "title": "System update available",
+  "new_features": [
+    "Added BLE OTA firmware updates",
+    "Added firmware version reporting"
+  ],
+  "improvements": [
+    "Improved DHT22 sensor handling",
+    "Improved OTA transfer reliability",
+    "Fixed firmware version parsing in app",
+    "Added watchdog recovery"
+  ],
+  "notes": [
+    "Keep the phone close to the device during update.",
+    "The device will reboot automatically after installation."
+  ],
+  "bin_url": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0.2/DOTMATRIX-FIRMWARE.bin",
+  "md5": "PUT_REAL_MD5_HERE"
+}
