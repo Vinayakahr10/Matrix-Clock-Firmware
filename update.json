@@ -1,5 +1,5 @@
 {
-  "version": "v1.0.2",
+  "version": "v1.0.2-dev",
   "title": "System update available",
   "new_features": [
     "Added BLE pairing and bonding support",
@@ -19,6 +19,6 @@
     "Keep the phone close to the device during updates and setup.",
     "The device may reboot or reconnect during firmware-related changes."
   ],
-  "bin_url": "https://github.com/Vinayakahr10/Matrix-Clock-Firmware/releases/download/v1.0.2/DOTMATRIX-FIRMWARE.bin",
-  "md5": "PUT_REAL_MD5_HERE"
+  "bin_url": "https://github.com/Vinayakahr10/Matrix-Clock-Firmware/releases/download/v1.0.2-dev/DOTMATRIX-FIRMWARE.ino.bin",
+  "md5": "REAL_MD5_HERE"
 }
