@@ -15,6 +15,6 @@
     "Keep the phone close to the device during update.",
     "The device will reboot automatically after installation."
   ],
-  "bin_url": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0.2/DOTMATRIX-FIRMWARE.bin",
+  "bin_url": "https://github.com/Vinayakahr10/Matrix-Clock-Firmware/releases/download/v1.0.2/DOTMATRIX-FIRMWARE.bin",
   "md5": "PUT_REAL_MD5_HERE"
 }
