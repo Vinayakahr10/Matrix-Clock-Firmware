@@ -6,10 +6,17 @@
   "md5": "6eb3382f604667b4d5e7fcb54db21167",
   "sha256": "ecdfbb8278a2a914c800fea38bc31706ac2ae221c0b70c2eb779685884c95120",
   "changes": [
-    "Added OTA debug logs for OTA_BEGIN, OTA_CHUNK, and OTA_END",
-    "Added serial log for OTA chunk progress",
-    "Added serial log when reboot is scheduled after OTA",
-    "Added reset reason log at boot for easier troubleshooting",
-    "Firmware version updated to v1.0.2"
+    "Added RTC-based time restore and phone time sync",
+    "Added MAX7219 clock display support with time, date, day, and temperature cycle",
+    "Added button-controlled menu for Clock, Message, and Visualizer modes",
+    "Added virtual BLE button support for app control",
+    "Added display brightness control over BLE",
+    "Added 12-hour and 24-hour time format support",
+    "Added message animation styles: NONE, WAVE, SCROLL, and RAIN",
+    "Added visualizer source selection for device mic and phone mic",
+    "Added visualizer styles: BARS, WAVE, and RADIAL",
+    "Added clock tools submenu with Alarm, Timer, and Stopwatch",
+    "Added buzzer support for alarm and timer alerts",
+    "Added OTA debug logs and reboot diagnostics"
   ]
 }
