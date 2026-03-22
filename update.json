@@ -3,7 +3,7 @@
   "bin_url": "https://github.com/Vinayakahr10/Matrix-Clock-Firmware/releases/download/v1.0.3/DOTMATRIX-FIRMWARE.ino.bin",
   "fileName": "DOTMATRIX-FIRMWARE.ino.bin",
   "size": 1105904,
-  "md5": "6eb3382f604667b4d5e7fcb54db21167",
+  "md5": "ed7d6e48247c5bb4a161e0a20e371c26",
   "sha256": "ecdfbb8278a2a914c800fea38bc31706ac2ae221c0b70c2eb779685884c95120",
   "changes": [
     "Added RTC-based time restore and phone time sync",
